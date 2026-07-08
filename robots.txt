@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://flexi-viewlending.com/sitemap.xml

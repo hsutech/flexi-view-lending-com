@@ -1,0 +1,34 @@
+{
+  "domain": "flexi-viewlending.com",
+  "rebuiltAt": "2026-07-06T12:18:56.872Z",
+  "archiveSource": "https://web.archive.org/web/20250923073152/https://www.flexi-viewlending.com/",
+  "archiveUse": "Authorized client-owned recovery. Structure, service slugs, old tagline and featured transaction labels recovered; production copy is original.",
+  "pages": [
+    "/",
+    "/services/",
+    "/construction-loans/",
+    "/business-loans/",
+    "/hard-money-loans/",
+    "/fix-flip-loans/",
+    "/single-multi-family-loans/",
+    "/hospitality-loans/",
+    "/bridge-loans/",
+    "/refinance-loans/",
+    "/about/",
+    "/brokers/",
+    "/faq/",
+    "/contact/",
+    "/apply-now/",
+    "/blog/",
+    "/blog/how-bridge-loans-help-close-timing-gaps/",
+    "/blog/private-lending-for-investors-what-to-prepare/",
+    "/blog/refinance-vs-bridge-loan-for-real-estate/",
+    "/privacy-policy/",
+    "/terms-of-service/"
+  ],
+  "manualReview": [
+    "Confirm final phone number, address and compliance disclosures before production custom-domain launch.",
+    "Review application form destination; current static form opens the visitor email client.",
+    "Approve any outbound links before adding them to blog content."
+  ]
+}

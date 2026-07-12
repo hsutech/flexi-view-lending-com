@@ -14,3 +14,6 @@
 /brokers /brokers/ 301
 /apply-now /apply-now/ 301
 /faq /faq/ 301
+/apply /apply-now/ 301
+/privacy /privacy-policy/ 301
+/terms /terms-of-service/ 301

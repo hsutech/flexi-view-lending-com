@@ -1,0 +1,38 @@
+{
+  "domain": "flexi-viewlending.com",
+  "updatedAt": "2026-07-16T14:44:00+02:00",
+  "items": [
+    {
+      "keyword": "best hard money lenders in California",
+      "slug": "best-hard-money-lenders-in-california",
+      "priority": "Alta",
+      "status": "pending_verification",
+      "selectedAt": "2026-07-16",
+      "publishedAt": null,
+      "finalUrl": "https://flexi-viewlending.com/blog/best-hard-money-lenders-in-california/",
+      "commit": null,
+      "serpTarget": "Google US / California",
+      "language": "English",
+      "serpObservations": {
+        "intent": "Commercial BOFU comparison for California real estate investors choosing hard money or private lenders.",
+        "pageTypes": "Listicles, lender directories and comparison articles with tables, lender summaries, qualification criteria and FAQs.",
+        "coverage": "Top relevant pages emphasize provider fit, rates or estimated rates, loan amounts, terms, funding speed, credit score, investor experience, state coverage and alternatives.",
+        "gaps": "Many pages under-explain California licensing checks, draw controls, total cost, local lender diligence, exit risk and why no single lender is best for every transaction."
+      },
+      "sources": [
+        "https://fitsmallbusiness.com/best-hard-money-lenders/",
+        "https://www.centerstreetlending.com/",
+        "https://dfpi.ca.gov/licensees-and-regulated-industries/",
+        "https://www.dre.ca.gov/"
+      ],
+      "internalLinks": [
+        "https://flexi-viewlending.com/hard-money-loans/",
+        "https://flexi-viewlending.com/bridge-loans/",
+        "https://flexi-viewlending.com/fix-flip-loans/",
+        "https://flexi-viewlending.com/construction-loans/",
+        "https://flexi-viewlending.com/apply-now/"
+      ],
+      "notes": "Article drafted and integrated. Do not mark published until custom-domain deployment is verified."
+    }
+  ]
+}

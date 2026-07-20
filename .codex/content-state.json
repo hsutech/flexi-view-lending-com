@@ -43,6 +43,42 @@
         "mobileRender": "passed"
       },
       "notes": "Published and verified on the custom domain."
+    },
+    {
+      "keyword": "Commercial Real Estate Loan vs Business Loan: Which One Fits Your Property Purchase?",
+      "slug": "commercial-real-estate-loan-vs-business-loan",
+      "priority": "Extra campaign",
+      "status": "published",
+      "extraCampaign": true,
+      "selectedAt": "2026-07-20",
+      "publishedAt": "2026-07-20",
+      "finalUrl": "https://flexi-viewlending.com/blog/commercial-real-estate-loan-vs-business-loan/",
+      "commit": null,
+      "serpTarget": "Google US / California",
+      "language": "English",
+      "serpObservations": {
+        "intent": "Educational comparison for business owners deciding whether a property purchase belongs in commercial real estate financing, SBA real estate financing, bridge financing or a broader business loan.",
+        "pageTypes": "SERP includes SBA explainers, bank/lender owner-occupied CRE pages, owner-occupied versus investment property articles, commercial bridge-loan explainers and business loan pages.",
+        "coverage": "Top pages usually explain SBA 504, SBA 7(a), owner-occupied thresholds, investment-property underwriting, down payment ranges, timing and application documents.",
+        "gaps": "Many results blur product names, under-explain repayment source, over-rely on generic rate/down-payment claims, and do not connect California licensing diligence with real property purchase financing."
+      },
+      "sources": [
+        "https://www.sba.gov/funding-programs/loans/504-loans",
+        "https://www.sba.gov/funding-programs/loans/7a-loans",
+        "https://www.consumerfinance.gov/compliance/compliance-resources/small-business-lending-resources/small-business-lending-collection-and-reporting-requirements/small-business-lending-rule-faqs/",
+        "https://www.ftc.gov/business-guidance/resources/getting-business-credit",
+        "https://dfpi.ca.gov/regulated-industries/california-financing-law/",
+        "https://www.reddit.com/r/loansforsmallbusiness/"
+      ],
+      "internalLinks": [
+        "https://flexi-viewlending.com/business-loans/",
+        "https://flexi-viewlending.com/bridge-loans/",
+        "https://flexi-viewlending.com/hard-money-loans/",
+        "https://flexi-viewlending.com/loan-programs/",
+        "https://flexi-viewlending.com/apply-now/"
+      ],
+      "verification": null,
+      "notes": "One-off extra campaign publication; did not change an unrelated keyword row or normal editorial queue."
     }
   ]
 }

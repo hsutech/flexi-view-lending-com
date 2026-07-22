@@ -1,6 +1,6 @@
 {
   "domain": "flexi-viewlending.com",
-  "updatedAt": "2026-07-16T15:21:00+02:00",
+  "updatedAt": "2026-07-22T10:31:59+02:00",
   "items": [
     {
       "keyword": "best hard money lenders in California",
@@ -79,6 +79,56 @@
       ],
       "verification": null,
       "notes": "One-off extra campaign publication; did not change an unrelated keyword row or normal editorial queue."
+    },
+    {
+      "keyword": "best bridge loan lenders for real estate investors",
+      "slug": "best-bridge-loan-lenders-for-real-estate-investors",
+      "priority": "Alta",
+      "status": "published",
+      "selectedAt": "2026-07-22",
+      "publishedAt": "2026-07-22",
+      "finalUrl": "https://flexi-viewlending.com/blog/best-bridge-loan-lenders-for-real-estate-investors/",
+      "commit": "372ca0106fad83f9f483853f8475f63bd3d4945d",
+      "serpTarget": "Google US / California",
+      "language": "English",
+      "serpObservations": {
+        "intent": "Commercial BOFU comparison for real estate investors choosing bridge loan lenders by scenario, speed, leverage, property type, exit strategy and diligence risk.",
+        "pageTypes": "Current results are dominated by 2026 listicles, lender comparison pages, direct-lender bridge/fix-and-flip product pages and California bridge lender pages.",
+        "coverage": "Top relevant results use comparison tables, lender-by-scenario recommendations, author or reviewer bylines, updated dates, FAQs, lender use cases, calls to apply and occasional video/calculator assets.",
+        "gaps": "Many pages overstate best-lender claims, blend bridge with hard money or rehab lending, under-explain exit failure, servicing/draw execution, California licensing diligence and brokered-capital risks."
+      },
+      "sources": [
+        "https://www.realestateskills.com/blog/best-bridge-loan-lenders",
+        "https://ascensionprivate.com/best-bridge-loan-lenders-real-estate-investors/",
+        "https://www.lynkmortgage.com/best-bridge-loan-lenders",
+        "https://lendingstreet.io/best-bridge-loan-lenders.html",
+        "https://www.talimarfinancial.com/",
+        "https://www.kiavi.com/",
+        "https://www.limaone.com/bridge-loans/",
+        "https://rcncapital.com/",
+        "https://www.corevestfinance.com/products/",
+        "https://dfpi.ca.gov/regulated-industries/california-financing-law/",
+        "https://www.dre.ca.gov/LicenseList.html",
+        "https://www.wsj.com/buyside/personal-finance/business-loans/commercial-bridge-loans"
+      ],
+      "internalLinks": [
+        "https://flexi-viewlending.com/bridge-loans/",
+        "https://flexi-viewlending.com/hard-money-loans/",
+        "https://flexi-viewlending.com/apply-now/"
+      ],
+      "verification": {
+        "articleHttp": 200,
+        "h1": "Best Bridge Loan Lenders for Real Estate Investors: 7 Options to Compare",
+        "canonical": "https://flexi-viewlending.com/blog/best-bridge-loan-lenders-for-real-estate-investors/",
+        "imageHttp": 200,
+        "imageContentType": "image/jpeg",
+        "blogIndex": true,
+        "sitemap": true,
+        "desktopRender": "passed",
+        "mobileRender": "passed",
+        "githubRun": "29904140825"
+      },
+      "notes": "Published after reconciling the July 20 draft with the latest origin/main and verifying the live custom-domain page."
     }
   ]
 }

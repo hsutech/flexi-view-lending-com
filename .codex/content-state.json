@@ -1,6 +1,6 @@
 {
   "domain": "flexi-viewlending.com",
-  "updatedAt": "2026-07-22T10:31:59+02:00",
+  "updatedAt": "2026-07-26T10:23:00+02:00",
   "items": [
     {
       "keyword": "best hard money lenders in California",
@@ -129,6 +129,57 @@
         "githubRun": "29904140825"
       },
       "notes": "Published after reconciling the July 20 draft with the latest origin/main and verifying the live custom-domain page."
+    },
+    {
+      "keyword": "best fix and flip lenders in California",
+      "slug": "best-fix-and-flip-lenders-in-california",
+      "priority": "Alta",
+      "status": "published",
+      "selectedAt": "2026-07-26",
+      "publishedAt": "2026-07-26",
+      "finalUrl": "https://flexi-viewlending.com/blog/best-fix-and-flip-lenders-in-california/",
+      "commit": "6974f711ac6c40bcc797ccf49180a98b80f3e817",
+      "serpTarget": "Google US / California",
+      "language": "English",
+      "serpObservations": {
+        "intent": "Commercial BOFU comparison for California real estate investors choosing fix-and-flip or rehab lenders by speed, ARV/LTC, draw process, experience requirements and exit risk.",
+        "pageTypes": "Current relevant results are dominated by 2026 listicles, lender comparison pages and lender product/location pages for fix-and-flip, hard money, bridge and rehab financing.",
+        "coverage": "Top pages commonly include comparison tables, author or reviewer bylines, updated dates, lender-by-scenario recommendations, program details, FAQs, calls to apply and some multimedia or calculator-style deal analysis support.",
+        "gaps": "Many results overstate universal best-lender claims, under-explain California licensing diligence, broker versus direct-lender roles, rehab draw reimbursement friction, extension/default risk and how exit changes from resale to rental refinance affect lender fit."
+      },
+      "sources": [
+        "https://theclose.com/best-fix-and-flip-loans/",
+        "https://fitsmallbusiness.com/fix-and-flip-loans/",
+        "https://www.kiavi.com/rei-ink",
+        "https://www.limaone.com/hard-money-fix-n-flip/",
+        "https://rcncapital.com/bp-loan-programs",
+        "https://www.anchorloans.com/lp/fix-and-flip",
+        "https://www.corevestfinance.com/products/",
+        "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=FIN&sectionNum=22100.",
+        "https://www2.dre.ca.gov/publicasp/pplinfo.asp"
+      ],
+      "internalLinks": [
+        "https://flexi-viewlending.com/fix-flip-loans/",
+        "https://flexi-viewlending.com/hard-money-loans/",
+        "https://flexi-viewlending.com/bridge-loans/",
+        "https://flexi-viewlending.com/construction-loans/",
+        "https://flexi-viewlending.com/apply-now/"
+      ],
+      "verification": {
+        "articleHttp": 200,
+        "h1": "Best Fix and Flip Lenders in California: 7 Options to Compare",
+        "canonical": "https://flexi-viewlending.com/blog/best-fix-and-flip-lenders-in-california/",
+        "imageHttp": 200,
+        "imageContentType": "image/jpeg",
+        "imageBytes": 310883,
+        "blogIndex": true,
+        "sitemap": true,
+        "sitemapLastmod": "2026-07-26",
+        "desktopRender": "passed",
+        "mobileRender": "passed",
+        "githubRun": "30194468607"
+      },
+      "notes": "Published and verified on the custom domain after one live verification attempt."
     }
   ]
 }

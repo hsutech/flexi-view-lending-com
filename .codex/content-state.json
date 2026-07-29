@@ -1,6 +1,6 @@
 {
   "domain": "flexi-viewlending.com",
-  "updatedAt": "2026-07-26T10:23:00+02:00",
+  "updatedAt": "2026-07-29T10:23:54+02:00",
   "items": [
     {
       "keyword": "best hard money lenders in California",
@@ -180,6 +180,56 @@
         "githubRun": "30194468607"
       },
       "notes": "Published and verified on the custom domain after one live verification attempt."
+    },
+    {
+      "keyword": "best private construction lenders",
+      "slug": "best-private-construction-lenders",
+      "priority": "Alta",
+      "status": "published",
+      "selectedAt": "2026-07-29",
+      "publishedAt": "2026-07-29",
+      "finalUrl": "https://flexi-viewlending.com/blog/best-private-construction-lenders/",
+      "commit": "37d78ba11f1daeb9df94f058bafe72b9d4cdb994",
+      "serpTarget": "Google US / California",
+      "language": "English",
+      "serpObservations": {
+        "intent": "Commercial BOFU comparison for real estate investors choosing private construction lenders by project type, draw process, leverage, builder approval, completion timeline and sale or refinance exit.",
+        "pageTypes": "Current relevant results mix investor lender listicles, direct-lender construction product pages, private lender rankings and consumer-oriented construction lender comparisons.",
+        "coverage": "Top pages commonly include comparison tables, updated dates, lender-by-scenario recommendations, advertised LTC/LTARV or loan ranges, draw-process notes, FAQs, author or company attribution, images and calls to apply.",
+        "gaps": "Many results blur consumer construction loans with business-purpose investor loans, overstate universal best-lender claims, under-explain draw controls, builder approval, cost overruns, California licensing diligence, brokered capital and exit failure risk."
+      },
+      "sources": [
+        "https://www.kiavi.com/loans/new-construction-infill",
+        "https://www.limaone.com/new-construction-loans/",
+        "https://rcncapital.com/loan-programs",
+        "https://www.corevestfinance.com/ground-up/",
+        "https://www.tvcfunding.com/programs/ground-up-construction",
+        "https://www.lynkmortgage.com/best-construction-loan-lenders",
+        "https://dfpi.ca.gov/regulated-industries/california-financing-law/",
+        "https://www2.dre.ca.gov/publicasp/pplinfo.asp"
+      ],
+      "internalLinks": [
+        "https://flexi-viewlending.com/construction-loans/",
+        "https://flexi-viewlending.com/bridge-loans/",
+        "https://flexi-viewlending.com/hard-money-loans/",
+        "https://flexi-viewlending.com/fix-flip-loans/",
+        "https://flexi-viewlending.com/apply-now/"
+      ],
+      "verification": {
+        "articleHttp": 200,
+        "h1": "Best Private Construction Lenders: 7 Options to Compare",
+        "canonical": "https://flexi-viewlending.com/blog/best-private-construction-lenders/",
+        "imageHttp": 200,
+        "imageContentType": "image/jpeg",
+        "imageBytes": 208859,
+        "blogIndex": true,
+        "sitemap": true,
+        "sitemapLastmod": "2026-07-29",
+        "desktopRender": "passed",
+        "mobileRender": "passed",
+        "githubRun": "30435196999"
+      },
+      "notes": "Published and verified on the custom domain after the second live verification attempt."
     }
   ]
 }

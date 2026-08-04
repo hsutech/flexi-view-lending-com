@@ -1,6 +1,6 @@
 {
   "domain": "flexi-viewlending.com",
-  "updatedAt": "2026-07-29T10:23:54+02:00",
+  "updatedAt": "2026-08-04T13:17:47+02:00",
   "items": [
     {
       "keyword": "best hard money lenders in California",
@@ -230,6 +230,60 @@
         "githubRun": "30435196999"
       },
       "notes": "Published and verified on the custom domain after the second live verification attempt."
+    },
+    {
+      "keyword": "best commercial real estate bridge lenders",
+      "slug": "best-commercial-real-estate-bridge-lenders",
+      "priority": "Alta",
+      "status": "published",
+      "selectedAt": "2026-08-04",
+      "publishedAt": "2026-08-04",
+      "finalUrl": "https://flexi-viewlending.com/blog/best-commercial-real-estate-bridge-lenders/",
+      "commit": "4590fe0713e18eb30752d191b25a9af2f8e64bdc",
+      "serpTarget": "Google US / California",
+      "language": "English",
+      "serpObservations": {
+        "intent": "Commercial BOFU comparison for investors choosing commercial real estate bridge lenders by asset type, loan size, leverage, speed, recourse, reserves and exit strategy.",
+        "pageTypes": "Current relevant results mix lender listicles, commercial bridge loan explainers, direct-lender product pages and California-specific private lender pages.",
+        "coverage": "Top pages commonly include comparison tables, lender-by-scenario recommendations, updated or reviewed bylines, loan amount and leverage ranges, property-type coverage, FAQs, calls to apply and commercial bridge loan definitions.",
+        "gaps": "Many results blend residential investor bridge lending with CRE bridge lending, under-explain debt yield, extension rights, recourse carve-outs, reserves, future advances, California licensing diligence, brokered capital and takeout risk."
+      },
+      "sources": [
+        "https://yieldstack.ai/blog/best-bridge-loan-lenders-cre-2026",
+        "https://www.nerdwallet.com/best/small-business/commercial-real-estate-loan-rates",
+        "https://fitsmallbusiness.com/best-commercial-real-estate-loan-rates/",
+        "https://readycapital.com/loan-programs/commercial-real-estate/commercial-bridge/",
+        "https://iborrow.com/bridge-loan-program/",
+        "https://avanacapital.com/borrowing/bridge-loans/",
+        "https://www.walkerdunlop.com/specialties-sectors/affordable/bridge-capital",
+        "https://www.loneoakfund.com/",
+        "https://www.northcoastfinancialinc.com/commercial-bridge-loans/",
+        "https://cblcapital.com/loan-programs/",
+        "https://dfpi.ca.gov/regulated-industries/california-financing-law/",
+        "https://www2.dre.ca.gov/publicasp/pplinfo.asp"
+      ],
+      "internalLinks": [
+        "https://flexi-viewlending.com/bridge-loans/",
+        "https://flexi-viewlending.com/construction-loans/",
+        "https://flexi-viewlending.com/hospitality-loans/",
+        "https://flexi-viewlending.com/loan-programs/",
+        "https://flexi-viewlending.com/apply-now/"
+      ],
+      "verification": {
+        "articleHttp": 200,
+        "h1": "Best Commercial Real Estate Bridge Lenders: 7 Options to Compare",
+        "canonical": "https://flexi-viewlending.com/blog/best-commercial-real-estate-bridge-lenders/",
+        "imageHttp": 200,
+        "imageContentType": "image/jpeg",
+        "imageBytes": 518043,
+        "blogIndex": true,
+        "sitemap": true,
+        "sitemapLastmod": "2026-08-04",
+        "localBuild": "npm run build passed",
+        "localStaticQa": "passed",
+        "liveVerificationAttempt": 2
+      },
+      "notes": "Published and verified on the custom domain after the second live verification attempt. Browser render was not run because Playwright lacked a Chromium binary in the local environment; HTML, asset and live HTTP checks passed."
     }
   ]
 }

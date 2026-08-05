@@ -1,6 +1,6 @@
 {
   "domain": "flexi-viewlending.com",
-  "updatedAt": "2026-08-04T13:17:47+02:00",
+  "updatedAt": "2026-08-05T10:56:00+02:00",
   "items": [
     {
       "keyword": "best hard money lenders in California",
@@ -284,6 +284,55 @@
         "liveVerificationAttempt": 2
       },
       "notes": "Published and verified on the custom domain after the second live verification attempt. Browser render was not run because Playwright lacked a Chromium binary in the local environment; HTML, asset and live HTTP checks passed."
+    },
+    {
+      "keyword": "best hard money lenders in Los Angeles",
+      "slug": "best-hard-money-lenders-in-los-angeles",
+      "priority": "Alta",
+      "status": "published",
+      "selectedAt": "2026-08-05",
+      "publishedAt": "2026-08-05",
+      "finalUrl": "https://flexi-viewlending.com/blog/best-hard-money-lenders-in-los-angeles/",
+      "commit": "41e25182c906d40bbe16f3c77938c74b5e7487fe",
+      "serpTarget": "Google US / California",
+      "language": "English",
+      "serpObservations": {
+        "intent": "Commercial BOFU local comparison for Los Angeles real estate investors choosing hard money lenders by speed, collateral fit, licensing diligence, draw execution and exit strategy.",
+        "pageTypes": "Current relevant results mix local hard money lender landing pages, directory pages and national best-lender listicles with tables, lender summaries, FAQs and calls to apply.",
+        "coverage": "Top pages emphasize fast approvals, equity-based underwriting, fix-and-flip and bridge use cases, stated loan parameters, service area, recent closings, author/company attribution and application CTAs.",
+        "gaps": "Many pages under-explain who funds and services the loan, draw controls, extension/default risk, brokered-capital uncertainty, Los Angeles property complexity, licensing checks and why one lender is not best for every deal."
+      },
+      "sources": [
+        "https://westarlending.com/",
+        "https://www.maggiocapital.com/los-angeles-hard-money-loans",
+        "https://www.calhardmoney.com/",
+        "https://www.lendersa.com/lenders/hard-money/ca/los-angeles",
+        "https://theclose.com/best-hard-money-lenders/",
+        "https://www.dre.ca.gov/",
+        "https://dfpi.ca.gov/licensees-and-regulated-industries/"
+      ],
+      "internalLinks": [
+        "https://flexi-viewlending.com/hard-money-loans/",
+        "https://flexi-viewlending.com/bridge-loans/",
+        "https://flexi-viewlending.com/fix-flip-loans/",
+        "https://flexi-viewlending.com/construction-loans/",
+        "https://flexi-viewlending.com/apply-now/"
+      ],
+      "verification": {
+        "articleHttp": 200,
+        "h1": "Best Hard Money Lenders in Los Angeles: 7 Options to Compare",
+        "canonical": "https://flexi-viewlending.com/blog/best-hard-money-lenders-in-los-angeles/",
+        "imageHttp": 200,
+        "imageContentType": "image/jpeg",
+        "imageBytes": 287614,
+        "blogIndex": true,
+        "sitemap": true,
+        "sitemapLastmod": "2026-08-05",
+        "desktopRender": "limited_static_passed_browser_unavailable",
+        "mobileRender": "limited_static_passed_browser_unavailable",
+        "liveVerificationAttempt": 2
+      },
+      "notes": "Published and verified on the custom domain for HTTP, H1, canonical, featured image, blog index and sitemap. Browser render automation was unavailable because Playwright lacks a Chromium binary in this environment; static layout/content checks passed."
     }
   ]
 }

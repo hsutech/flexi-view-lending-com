@@ -1,6 +1,6 @@
 {
   "domain": "flexi-viewlending.com",
-  "updatedAt": "2026-08-05T14:52:16+02:00",
+  "updatedAt": "2026-08-06T10:43:00+02:00",
   "items": [
     {
       "keyword": "best hard money lenders in California",
@@ -333,6 +333,59 @@
         "liveVerificationAttempt": 2
       },
       "notes": "Published and verified on the custom domain for HTTP, H1, canonical, featured image, blog index and sitemap. Browser render automation was unavailable because Playwright lacks a Chromium binary in this environment; static layout/content checks passed."
+    },
+    {
+      "keyword": "best rental property bridge loans",
+      "slug": "best-rental-property-bridge-loans",
+      "priority": "Alta",
+      "status": "published",
+      "selectedAt": "2026-08-06",
+      "publishedAt": "2026-08-06",
+      "finalUrl": "https://flexi-viewlending.com/blog/best-rental-property-bridge-loans/",
+      "commit": "092f017a3b651a87a67063fd45f7fba4efa40e45",
+      "serpTarget": "Google US / California",
+      "language": "English",
+      "serpObservations": {
+        "intent": "Commercial BOFU comparison for real estate investors choosing rental property bridge loans by rental stabilization, DSCR takeout, speed, leverage, fees and exit risk.",
+        "pageTypes": "Current relevant results mix investor bridge lender product pages, DSCR rental loan pages, rental portfolio lender pages and broader bridge loan comparisons.",
+        "coverage": "Top pages commonly discuss BRRRR, bridge-to-DSCR, interest-only short-term debt, rental portfolios, non-owner-occupied collateral, loan terms, application flows, FAQs and quote CTAs.",
+        "gaps": "Many results blur rental bridge loans with fix-and-flip or permanent DSCR debt, under-explain failed takeout risk, extension cost, seasoning, California licensing diligence and broker versus direct-lender roles."
+      },
+      "sources": [
+        "https://www.kiavi.com/solutions/brrrr-strategy",
+        "https://limaonecapital.com/bridge-loans/",
+        "https://rcncapital.com/faqs",
+        "https://easystreetcap.com/",
+        "https://www.certainlending.com/",
+        "https://newsilver.com/hard-money-loans-rent/",
+        "https://dfpi.ca.gov/regulated-industries/california-financing-law/",
+        "https://www.dre.ca.gov/MultipleLookup.html"
+      ],
+      "internalLinks": [
+        "https://flexi-viewlending.com/bridge-loans/",
+        "https://flexi-viewlending.com/hard-money-loans/",
+        "https://flexi-viewlending.com/refinance-loans/",
+        "https://flexi-viewlending.com/single-multi-family-loans/",
+        "https://flexi-viewlending.com/apply-now/"
+      ],
+      "verification": {
+        "articleHttp": 200,
+        "h1": "Best Rental Property Bridge Loans: 7 Options to Compare",
+        "canonical": "https://flexi-viewlending.com/blog/best-rental-property-bridge-loans/",
+        "imageHttp": 200,
+        "imageContentType": "image/jpeg",
+        "imageBytes": 360241,
+        "blogIndex": true,
+        "sitemap": true,
+        "sitemapLastmod": "2026-08-06",
+        "githubRun": "31085866416",
+        "localBuild": "local npm run build hung and was interrupted; GitHub Actions build passed",
+        "localStaticQa": "passed",
+        "desktopRender": "limited_static_passed_browser_unavailable",
+        "mobileRender": "limited_static_passed_browser_unavailable",
+        "liveVerificationAttempt": 1
+      },
+      "notes": "Published through GitHub Contents API after local Git index and local Eleventy build blocked. Verified on the custom domain for HTTP, H1, canonical, featured image, blog index and sitemap. Browser render automation was unavailable because Playwright lacks a Chromium binary; static layout/content checks passed."
     }
   ]
 }

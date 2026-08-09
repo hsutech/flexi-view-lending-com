@@ -1,6 +1,6 @@
 {
   "domain": "flexi-viewlending.com",
-  "updatedAt": "2026-08-06T10:43:00+02:00",
+  "updatedAt": "2026-08-09T10:27:00+02:00",
   "items": [
     {
       "keyword": "best hard money lenders in California",
@@ -386,6 +386,57 @@
         "liveVerificationAttempt": 1
       },
       "notes": "Published through GitHub Contents API after local Git index and local Eleventy build blocked. Verified on the custom domain for HTTP, H1, canonical, featured image, blog index and sitemap. Browser render automation was unavailable because Playwright lacks a Chromium binary; static layout/content checks passed."
+    },
+    {
+      "keyword": "best hospitality financing lenders",
+      "slug": "best-hospitality-financing-lenders",
+      "priority": "Alta",
+      "status": "published",
+      "selectedAt": "2026-08-09",
+      "publishedAt": "2026-08-09",
+      "finalUrl": "https://flexi-viewlending.com/blog/best-hospitality-financing-lenders/",
+      "commit": "74ed2f9427103bbadd2f6aa10a8e00d227a09090",
+      "serpTarget": "Google US / California",
+      "language": "English",
+      "serpObservations": {
+        "intent": "Commercial BOFU comparison for hotel, motel and lodging borrowers choosing hospitality financing lenders by property type, program fit, timing, PIP/franchise requirements and exit risk.",
+        "pageTypes": "Current relevant results are dominated by hospitality lender product pages, hotel-loan brokers, commercial real estate finance pages and 2026 hotel financing comparison explainers rather than neutral review pages.",
+        "coverage": "Top pages commonly discuss conventional hotel loans, SBA 504/7(a), bridge loans, construction loans, CMBS, RevPAR/ADR/occupancy underwriting, franchise approval, PIP scope, borrower experience, FAQs and apply/contact CTAs.",
+        "gaps": "Many results promote a single lender or program, under-explain direct-lender versus broker role, underweight PIP and franchise timing risk, and do not give California borrowers a practical license and identity diligence path."
+      },
+      "sources": [
+        "https://www.wellsfargo.com/cib/commercial-real-estate/hospitality/",
+        "https://hotelloans.com/",
+        "https://www.lumenmortgage.com/loans/commercial/hotel-hospitality",
+        "https://firstna.com/property-lending-solutions/hospitality-financing/",
+        "https://commercialcapitalpartner.com/hotel-hospitality-financing/",
+        "https://www.sba.gov/funding-programs/loans/504-loans",
+        "https://dfpi.ca.gov/regulated-industries/california-financing-law/",
+        "https://www.dre.ca.gov/MultipleLookup.html"
+      ],
+      "internalLinks": [
+        "https://flexi-viewlending.com/hospitality-loans/",
+        "https://flexi-viewlending.com/bridge-loans/",
+        "https://flexi-viewlending.com/construction-loans/",
+        "https://flexi-viewlending.com/refinance-loans/",
+        "https://flexi-viewlending.com/business-loans/",
+        "https://flexi-viewlending.com/apply-now/"
+      ],
+      "verification": {
+        "articleHttp": 200,
+        "h1": "Best Hospitality Financing Lenders: 7 Options to Compare",
+        "canonical": "https://flexi-viewlending.com/blog/best-hospitality-financing-lenders/",
+        "imageHttp": 200,
+        "imageContentType": "image/jpeg",
+        "imageBytes": 341816,
+        "blogIndex": true,
+        "sitemap": true,
+        "sitemapLastmod": "2026-08-09",
+        "githubRun": "31303466430",
+        "desktopRender": "static responsive checks passed; browser automation unavailable",
+        "mobileRender": "static responsive checks passed; browser automation unavailable"
+      },
+      "notes": "Published and verified on the custom domain after the third live verification attempt. Local npm build hung and was interrupted; GitHub Actions Eleventy build passed. Automated browser screenshot tooling was unavailable, so responsive CSS/static layout checks were used."
     }
   ]
 }

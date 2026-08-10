@@ -1,6 +1,6 @@
 {
   "domain": "flexi-viewlending.com",
-  "updatedAt": "2026-08-09T10:27:00+02:00",
+  "updatedAt": "2026-08-10T10:46:00+02:00",
   "items": [
     {
       "keyword": "best hard money lenders in California",
@@ -437,6 +437,58 @@
         "mobileRender": "static responsive checks passed; browser automation unavailable"
       },
       "notes": "Published and verified on the custom domain after the third live verification attempt. Local npm build hung and was interrupted; GitHub Actions Eleventy build passed. Automated browser screenshot tooling was unavailable, so responsive CSS/static layout checks were used."
+    },
+    {
+      "keyword": "best private real estate lenders",
+      "slug": "best-private-real-estate-lenders",
+      "priority": "Alta",
+      "status": "published",
+      "selectedAt": "2026-08-10",
+      "publishedAt": "2026-08-10",
+      "finalUrl": "https://flexi-viewlending.com/blog/best-private-real-estate-lenders/",
+      "commit": "8fa4d8d5d25868b0b6d1cc2f8f04c40be50aadf7",
+      "serpTarget": "Google US / California",
+      "language": "English",
+      "serpObservations": {
+        "intent": "Commercial BOFU comparison for real estate investors choosing private real estate lenders by loan purpose, capital source, role clarity, speed, leverage, California diligence and exit risk.",
+        "pageTypes": "Current relevant results mix lender listicles, national private lender product pages, California hard money/private money pages, lender marketplaces and educational private money explainers.",
+        "coverage": "Top pages commonly use comparison tables, lender-by-scenario positioning, apply/prequalify CTAs, program menus for fix-and-flip, bridge, rental, DSCR, construction and multifamily loans, FAQs, updated dates and occasional video education.",
+        "gaps": "Many results overstate universal best-lender claims, blur direct lenders with brokers and marketplaces, under-explain California licensing/exemption diligence, quote comparability, servicing, draw controls, default terms and failed takeout risk."
+      },
+      "sources": [
+        "https://www.kiavi.com/",
+        "https://www.limaone.com/california-hard-money-lender/",
+        "https://www.youtube.com/watch?v=yNLnad-VJsA",
+        "https://dfpi.ca.gov/regulated-industries/california-financing-law/",
+        "https://www.dre.ca.gov/MultipleLookup.html"
+      ],
+      "internalLinks": [
+        "https://flexi-viewlending.com/hard-money-loans/",
+        "https://flexi-viewlending.com/bridge-loans/",
+        "https://flexi-viewlending.com/fix-flip-loans/",
+        "https://flexi-viewlending.com/construction-loans/",
+        "https://flexi-viewlending.com/refinance-loans/",
+        "https://flexi-viewlending.com/business-loans/",
+        "https://flexi-viewlending.com/apply-now/"
+      ],
+      "verification": {
+        "articleHttp": 200,
+        "h1": "Best Private Real Estate Lenders: 7 Options to Compare",
+        "canonical": "https://flexi-viewlending.com/blog/best-private-real-estate-lenders/",
+        "imageHttp": 200,
+        "imageContentType": "image/jpeg",
+        "imageBytes": 325185,
+        "blogIndex": true,
+        "sitemap": true,
+        "sitemapLastmod": "2026-08-10",
+        "githubRun": "31371351906",
+        "localBuild": "npm run build passed",
+        "localStaticQa": "passed",
+        "desktopRender": "static responsive checks passed; browser automation unavailable",
+        "mobileRender": "static responsive checks passed; browser automation unavailable",
+        "liveVerificationAttempt": 2
+      },
+      "notes": "Published through GitHub Git Data API after local Git checkout corruption blocked normal Git operations. Verified on the custom domain for HTTP, H1, canonical, featured image, blog index and sitemap. Browser automation was unavailable; static responsive layout checks passed."
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "domain": "flexi-viewlending.com",
-  "updatedAt": "2026-08-10T10:46:00+02:00",
+  "updatedAt": "2026-08-11T10:31:49+02:00",
   "items": [
     {
       "keyword": "best hard money lenders in California",
@@ -489,6 +489,59 @@
         "liveVerificationAttempt": 2
       },
       "notes": "Published through GitHub Git Data API after local Git checkout corruption blocked normal Git operations. Verified on the custom domain for HTTP, H1, canonical, featured image, blog index and sitemap. Browser automation was unavailable; static responsive layout checks passed."
+    },
+    {
+      "keyword": "hard money lender reviews California",
+      "slug": "hard-money-lender-reviews-california",
+      "priority": "Alta",
+      "status": "published",
+      "selectedAt": "2026-08-11",
+      "publishedAt": "2026-08-11",
+      "finalUrl": "https://flexi-viewlending.com/blog/hard-money-lender-reviews-california/",
+      "commit": "996e32511e8ff2551726459b450ffc150fc256ff",
+      "serpTarget": "Google US / California",
+      "language": "English",
+      "serpObservations": {
+        "intent": "Commercial BOFU review/due-diligence intent for California real estate investors evaluating hard money lender reputation before requesting terms.",
+        "pageTypes": "SERP mixes business review profiles, lender directories, California hard money lender listicles, broader hard money comparisons and local lender pages.",
+        "coverage": "Relevant results commonly include ratings or review counts, comparison tables, lender fit, speed, loan products, author or company attribution, updated dates, FAQs, images and quote/apply CTAs.",
+        "gaps": "Many pages do not show how to validate reviews against California licensing, broker versus direct-lender role, written fees, draw servicing, payoff terms and exit risk."
+      },
+      "sources": [
+        "https://reviews.birdeye.com/hard-money-lenders-california-168334493409535",
+        "https://www.biggerpockets.com/ca/lenders",
+        "https://www.offermarket.us/blog/hard-money-lender-california",
+        "https://www.forbes.com/advisor/mortgages/real-estate/best-hard-money-lenders/",
+        "https://fitsmallbusiness.com/best-hard-money-lenders/",
+        "https://www.realestateskills.com/blog/best-hard-money-lenders-california",
+        "https://dfpi.ca.gov/regulated-industries/california-financing-law/about-california-financing-law/",
+        "https://www.dre.ca.gov/MultipleLookup.html"
+      ],
+      "internalLinks": [
+        "https://flexi-viewlending.com/blog/best-hard-money-lenders-in-california/",
+        "https://flexi-viewlending.com/hard-money-loans/",
+        "https://flexi-viewlending.com/bridge-loans/",
+        "https://flexi-viewlending.com/fix-flip-loans/",
+        "https://flexi-viewlending.com/apply-now/"
+      ],
+      "verification": {
+        "articleHttp": 200,
+        "h1": "Hard Money Lender Reviews California: How to Read Them Before You Apply",
+        "canonical": "https://flexi-viewlending.com/blog/hard-money-lender-reviews-california/",
+        "imageHttp": 200,
+        "imageContentType": "image/jpeg",
+        "imageBytes": 149681,
+        "blogIndex": true,
+        "sitemap": true,
+        "sitemapLastmod": "2026-08-11",
+        "githubRun": "31473288276",
+        "localBuild": "local npm run build hung and was interrupted; GitHub Actions Eleventy build passed",
+        "localStaticQa": "passed",
+        "desktopRender": "static responsive checks passed; browser automation unavailable",
+        "mobileRender": "static responsive checks passed; browser automation unavailable",
+        "liveVerificationAttempt": 2
+      },
+      "notes": "Published through GitHub Contents API because local git checkout remains unhealthy. Verified on the custom domain after the second live attempt; first attempt temporarily served the home fallback at the article path."
     }
   ]
 }

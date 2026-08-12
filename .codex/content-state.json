@@ -1,6 +1,6 @@
 {
   "domain": "flexi-viewlending.com",
-  "updatedAt": "2026-08-11T10:31:49+02:00",
+  "updatedAt": "2026-08-12T10:29:46+02:00",
   "items": [
     {
       "keyword": "best hard money lenders in California",
@@ -542,6 +542,60 @@
         "liveVerificationAttempt": 2
       },
       "notes": "Published through GitHub Contents API because local git checkout remains unhealthy. Verified on the custom domain after the second live attempt; first attempt temporarily served the home fallback at the article path."
+    },
+    {
+      "keyword": "hard money loan alternatives",
+      "slug": "hard-money-loan-alternatives",
+      "priority": "Media",
+      "status": "published",
+      "selectedAt": "2026-08-12",
+      "publishedAt": "2026-08-12",
+      "finalUrl": "https://flexi-viewlending.com/blog/hard-money-loan-alternatives/",
+      "commit": "185e5e44fada2338ddd84ebffc1b00b775e7dd0c",
+      "serpTarget": "Google US / California",
+      "language": "English",
+      "serpObservations": {
+        "intent": "Commercial BOFU comparison for real estate investors deciding whether to use hard money or an alternative financing structure by property condition, timing, cost, collateral and exit.",
+        "pageTypes": "SERP mixes fix-and-flip financing explainers, DSCR-versus-hard-money comparisons, hard-money replacement loan articles, private lending pages, lender product pages and regulatory resources.",
+        "coverage": "Relevant top pages commonly use quick answers, comparison tables, best-for labels, bylined/updated editorial pages, FAQs, product breakdowns and calls to compare or apply.",
+        "gaps": "Many results describe loan types but under-explain deal-level routing, California lender/broker diligence, exit failure risk, draw friction, owner-user SBA fit and when cheaper capital is actually too slow."
+      },
+      "sources": [
+        "https://www.nerdwallet.com/business/loans/learn/fix-and-flip-loans",
+        "https://www.lendmire.com/best-loans-to-replace-a-hard-money-loan/",
+        "https://www.acalending.com/dscr-loans-vs-hard-money-which-is-right-for-your-california-investment-property/",
+        "https://www.limaone.com/california-hard-money-lender/",
+        "https://slingshotinvestments.com/hard-money-vs-private-money/",
+        "https://www.sba.gov/loans/7a-loans/",
+        "https://www.sba.gov/loans/504-loans/",
+        "https://dfpi.ca.gov/regulated-industries/california-financing-law/about-california-financing-law/"
+      ],
+      "internalLinks": [
+        "https://flexi-viewlending.com/blog/best-hard-money-lenders-in-california/",
+        "https://flexi-viewlending.com/hard-money-loans/",
+        "https://flexi-viewlending.com/refinance-loans/",
+        "https://flexi-viewlending.com/fix-flip-loans/",
+        "https://flexi-viewlending.com/construction-loans/",
+        "https://flexi-viewlending.com/apply-now/"
+      ],
+      "verification": {
+        "articleHttp": 200,
+        "h1": "Hard Money Loan Alternatives: 7 Options to Compare",
+        "canonical": "https://flexi-viewlending.com/blog/hard-money-loan-alternatives/",
+        "imageHttp": 200,
+        "imageContentType": "image/jpeg",
+        "imageBytes": 184225,
+        "blogIndex": true,
+        "sitemap": true,
+        "sitemapLastmod": "2026-08-12",
+        "githubRun": "31578400452",
+        "localBuild": "interrupted_after_timeout; GitHub Actions Eleventy build passed",
+        "localStaticQa": "passed",
+        "desktopRender": "static responsive checks passed; browser automation unavailable",
+        "mobileRender": "static responsive checks passed; browser automation unavailable",
+        "liveVerificationAttempt": 1
+      },
+      "notes": "Published through GitHub Contents API because local git checkout remains unhealthy. Verified on the custom domain for HTTP 200, expected H1, canonical, featured image, blog index and sitemap after GitHub/Cloudflare workflow success."
     }
   ]
 }

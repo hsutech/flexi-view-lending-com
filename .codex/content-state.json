@@ -1,6 +1,6 @@
 {
   "domain": "flexi-viewlending.com",
-  "updatedAt": "2026-08-12T10:29:46+02:00",
+  "updatedAt": "2026-08-13T10:29:30+02:00",
   "items": [
     {
       "keyword": "best hard money lenders in California",
@@ -596,6 +596,62 @@
         "liveVerificationAttempt": 1
       },
       "notes": "Published through GitHub Contents API because local git checkout remains unhealthy. Verified on the custom domain for HTTP 200, expected H1, canonical, featured image, blog index and sitemap after GitHub/Cloudflare workflow success."
+    },
+    {
+      "keyword": "bridge loan vs hard money loan",
+      "slug": "bridge-loan-vs-hard-money-loan",
+      "priority": "Media",
+      "status": "published",
+      "selectedAt": "2026-08-13",
+      "publishedAt": "2026-08-13",
+      "finalUrl": "https://flexi-viewlending.com/blog/bridge-loan-vs-hard-money-loan/",
+      "commit": "0d02c14ccddfab329387c6a93d9fc85981102ad3",
+      "serpTarget": "Google US / California",
+      "language": "English",
+      "serpObservations": {
+        "intent": "Commercial BOFU comparison for real estate investors choosing between bridge loans and hard money loans by timing gap, collateral risk, speed, cost and exit strategy.",
+        "pageTypes": "SERP mixes direct comparison explainers, California lender-authored comparisons, hard money product pages, broad mortgage education pages and regulatory resources.",
+        "coverage": "Relevant results commonly include quick answers, comparison tables, definitions, borrower/use-case breakdowns, estimated terms, updated bylines, FAQs, calls to apply or compare and occasional loan education video.",
+        "gaps": "Many pages define the terms but under-explain deal-level routing, total cost beyond rate, failed-exit risk, broker versus direct-lender role, California licensing diligence and when the two labels overlap."
+      },
+      "sources": [
+        "https://clscre.com/blog/bridge-loan-vs-hard-money-loan.html",
+        "https://mayacamaslending.com/bridge-loan-vs-hard-money-loan-california/",
+        "https://www.rocketmortgage.com/learn/bridge-loan-vs-hard-money-loan",
+        "https://www.iloanca.com/loan-programs/hard-money/",
+        "https://www.pacificprivatemoney.com/video/mark-hanf-discusses-many-types-bridge-loans-available-ppm/",
+        "https://dfpi.ca.gov/regulated-industries/california-financing-law/",
+        "https://www.dre.ca.gov/MultipleLookup.html",
+        "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=FIN&sectionNum=22100.",
+        "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=FIN&sectionNum=22800."
+      ],
+      "internalLinks": [
+        "https://flexi-viewlending.com/blog/best-bridge-loan-lenders-for-real-estate-investors/",
+        "https://flexi-viewlending.com/blog/best-hard-money-lenders-in-california/",
+        "https://flexi-viewlending.com/blog/hard-money-loan-alternatives/",
+        "https://flexi-viewlending.com/bridge-loans/",
+        "https://flexi-viewlending.com/hard-money-loans/",
+        "https://flexi-viewlending.com/fix-flip-loans/",
+        "https://flexi-viewlending.com/apply-now/"
+      ],
+      "verification": {
+        "articleHttp": 200,
+        "h1": "Bridge Loan vs Hard Money Loan: Key Differences",
+        "canonical": "https://flexi-viewlending.com/blog/bridge-loan-vs-hard-money-loan/",
+        "imageHttp": 200,
+        "imageContentType": "image/jpeg",
+        "imageBytes": 267306,
+        "blogIndex": true,
+        "sitemap": true,
+        "sitemapLastmod": "2026-08-13",
+        "githubRun": "31682200387",
+        "localBuild": "interrupted_after_timeout; GitHub Actions Eleventy build passed",
+        "localStaticQa": "passed",
+        "desktopRender": "static responsive checks passed; browser REPL output unavailable",
+        "mobileRender": "static responsive checks passed; browser REPL output unavailable",
+        "liveVerificationAttempt": 1
+      },
+      "notes": "Published through GitHub Contents API because local git checkout remains unhealthy. Verified on the custom domain for HTTP 200, expected H1, canonical, featured image, blog index, sitemap and YouTube embed after GitHub/Cloudflare workflow success."
     }
   ]
 }

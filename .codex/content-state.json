@@ -1,6 +1,6 @@
 {
   "domain": "flexi-viewlending.com",
-  "updatedAt": "2026-08-13T10:29:30+02:00",
+  "updatedAt": "2026-08-18T10:46:00+02:00",
   "items": [
     {
       "keyword": "best hard money lenders in California",
@@ -652,6 +652,60 @@
         "liveVerificationAttempt": 1
       },
       "notes": "Published through GitHub Contents API because local git checkout remains unhealthy. Verified on the custom domain for HTTP 200, expected H1, canonical, featured image, blog index, sitemap and YouTube embed after GitHub/Cloudflare workflow success."
+    },
+    {
+      "keyword": "bridge loan vs conventional loan",
+      "slug": "bridge-loan-vs-conventional-loan",
+      "priority": "Media",
+      "status": "published",
+      "selectedAt": "2026-08-18",
+      "publishedAt": "2026-08-18",
+      "finalUrl": "https://flexi-viewlending.com/blog/bridge-loan-vs-conventional-loan/",
+      "commit": "27ebb7ecaf06286b5a2c0e3f39670ae35e4277e8",
+      "serpTarget": "Google US / California",
+      "language": "English",
+      "serpObservations": {
+        "intent": "Commercial BOFU comparison for real estate investors deciding between short-term bridge financing and conventional mortgage financing by speed, cost, underwriting, collateral readiness and exit strategy.",
+        "pageTypes": "SERP mixes direct comparison explainers, bridge-loan education pages, conventional mortgage education resources, investment-property financing guides and California bridge-loan lender pages.",
+        "approxLength": "Relevant top pages are typically short-to-medium explainers around 900-2,000 words, with tables or quick-answer sections on stronger results.",
+        "structure": "Top results commonly use a quick answer, definitions, side-by-side comparisons, pros and cons, use cases, requirements, risks and FAQs. Some have bylines and updated dates; TOCs and video are inconsistent.",
+        "coverage": "Common coverage includes term length, interest/cost direction, underwriting standards, speed, collateral, borrower documentation, conventional agency fit, bridge exit strategy and refinance or sale payoff.",
+        "entities": "Bridge loan, conventional loan, Fannie Mae, Freddie Mac, CFPB, DFPI, Loan Estimate, investment property, DTI, reserves, LTV, appraisal, takeout refinance, California Financing Law.",
+        "questions": "Users ask whether a bridge loan is conventional, which is cheaper, when bridge loans make sense, when conventional loans make sense, and whether a bridge can be refinanced into a conventional loan.",
+        "gaps": "Many pages define the products but under-explain investor routing, takeout testing, California role/licensing diligence, reserve/property-count friction, and how to compare certainty versus rate when timelines differ."
+      },
+      "sources": [
+        "https://legalclarity.org/is-a-bridge-loan-a-conventional-loan-key-differences/",
+        "https://www.consumerfinance.gov/owning-a-home/compare/compare-loan-estimates/",
+        "https://guide-selling.fanniemae.com/sel/b2-2-03/multiple-financed-properties-same-borrower",
+        "https://dfpi.ca.gov/regulated-industries/california-financing-law/",
+        "https://www.pacificprivatemoney.com/video/mark-hanf-discusses-many-types-bridge-loans-available-ppm/"
+      ],
+      "internalLinks": [
+        "https://flexi-viewlending.com/blog/bridge-loan-vs-hard-money-loan/",
+        "https://flexi-viewlending.com/bridge-loans/",
+        "https://flexi-viewlending.com/blog/best-bridge-loan-lenders-for-real-estate-investors/",
+        "https://flexi-viewlending.com/apply-now/"
+      ],
+      "verification": {
+        "articleHttp": 200,
+        "h1": "Bridge Loan vs Conventional Loan: Key Differences",
+        "canonical": "https://flexi-viewlending.com/blog/bridge-loan-vs-conventional-loan/",
+        "imageHttp": 200,
+        "imageContentType": "image/jpeg",
+        "imageBytes": 299974,
+        "blogIndex": true,
+        "sitemap": true,
+        "sitemapLastmod": "2026-08-18",
+        "githubRun": "32116480675",
+        "localBuild": "interrupted_after_timeout; GitHub Actions Eleventy build passed",
+        "localStaticQa": "passed",
+        "desktopRender": "static responsive checks passed; Playwright unavailable",
+        "mobileRender": "static responsive checks passed; Playwright unavailable",
+        "liveVerificationAttempt": 1,
+        "youtubeEmbed": true
+      },
+      "notes": "Published through GitHub API because local git/build operations remain unreliable. Verified on the custom domain for HTTP 200, expected H1, canonical, featured image, blog index, sitemap and YouTube embed after GitHub/Cloudflare workflow success."
     }
   ]
 }

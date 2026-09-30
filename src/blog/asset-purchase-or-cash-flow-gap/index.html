@@ -21,81 +21,6 @@
   
   
   
-<style>
-.campaign-hero{padding:clamp(2rem,5vw,4.5rem) 1.5rem;background:#f3f5f7;color:#182b39}
-.campaign-wrap{max-width:1120px;margin:auto}.campaign-hero h1{max-width:850px;font-size:clamp(2rem,4vw,3.3rem);line-height:1.13;margin:.5rem 0 1rem}
-.campaign-kicker{font-size:.85rem;letter-spacing:.1em;text-transform:uppercase;font-weight:700}.campaign-meta{color:#536270}
-.campaign-layout{display:grid;grid-template-columns:minmax(0,220px) minmax(0,760px);gap:clamp(1.5rem,4vw,4rem);padding:2.5rem 1.5rem 5rem;align-items:start}
-.campaign-layout>*{min-width:0}.campaign-toc{position:sticky;top:1rem;border-left:2px solid #cbd4dc;padding-left:1rem}
-.campaign-toc h2{font-size:1rem;margin:0 0 .75rem}.campaign-toc ol{padding-left:1.2rem;margin:0}.campaign-toc li{margin:.55rem 0;font-size:.9rem}
-.campaign-body{font-size:1.05rem;line-height:1.75;color:#253340}.campaign-body>p{margin:0 0 1.35rem}.campaign-body h2{font-size:clamp(1.45rem,2.4vw,2rem);line-height:1.25;margin:2.5rem 0 1rem}
-.campaign-body h3{font-size:1.2rem;line-height:1.3;margin:1.8rem 0 .55rem}.campaign-body a{text-decoration:underline;text-underline-offset:2px}
-.campaign-body ul{margin:0 0 1.35rem;padding-left:1.5rem}.campaign-table{overflow-x:auto;margin:1.5rem 0 2rem;border:1px solid #d5dde3;border-radius:6px}
-.campaign-table table{width:100%;border-collapse:collapse;min-width:600px}.campaign-table th,.campaign-table td{padding:.75rem .9rem;border-bottom:1px solid #d5dde3;text-align:left;vertical-align:top}
-.campaign-table th{background:#e9eef2;color:#182b39}.campaign-table tr:last-child td{border-bottom:0}
-.campaign-feature{margin:0 0 1.5rem;overflow:hidden;border-radius:6px}.campaign-feature img{display:block;width:100%;height:auto;max-height:420px;object-fit:cover}
-@media(max-width:800px){.campaign-layout{grid-template-columns:1fr}.campaign-toc{position:static}}
-</style>
-<style>
-.campaign-hero{padding:clamp(2rem,5vw,4.5rem) 1.5rem;background:#f3f5f7;color:#182b39}
-.campaign-wrap{max-width:1120px;margin:auto}.campaign-hero h1{max-width:850px;font-size:clamp(2rem,4vw,3.3rem);line-height:1.13;margin:.5rem 0 1rem}
-.campaign-kicker{font-size:.85rem;letter-spacing:.1em;text-transform:uppercase;font-weight:700}.campaign-meta{color:#536270}
-.campaign-layout{display:grid;grid-template-columns:minmax(0,220px) minmax(0,760px);gap:clamp(1.5rem,4vw,4rem);padding:2.5rem 1.5rem 5rem;align-items:start}
-.campaign-layout>*{min-width:0}.campaign-toc{position:sticky;top:1rem;border-left:2px solid #cbd4dc;padding-left:1rem}
-.campaign-toc h2{font-size:1rem;margin:0 0 .75rem}.campaign-toc ol{padding-left:1.2rem;margin:0}.campaign-toc li{margin:.55rem 0;font-size:.9rem}
-.campaign-body{font-size:1.05rem;line-height:1.75;color:#253340}.campaign-body>p{margin:0 0 1.35rem}.campaign-body h2{font-size:clamp(1.45rem,2.4vw,2rem);line-height:1.25;margin:2.5rem 0 1rem}
-.campaign-body h3{font-size:1.2rem;line-height:1.3;margin:1.8rem 0 .55rem}.campaign-body a{text-decoration:underline;text-underline-offset:2px}
-.campaign-body ul{margin:0 0 1.35rem;padding-left:1.5rem}.campaign-table{overflow-x:auto;margin:1.5rem 0 2rem;border:1px solid #d5dde3;border-radius:6px}
-.campaign-table table{width:100%;border-collapse:collapse;min-width:600px}.campaign-table th,.campaign-table td{padding:.75rem .9rem;border-bottom:1px solid #d5dde3;text-align:left;vertical-align:top}
-.campaign-table th{background:#e9eef2;color:#182b39}.campaign-table tr:last-child td{border-bottom:0}
-.campaign-feature{margin:0 0 1.5rem;overflow:hidden;border-radius:6px}.campaign-feature img{display:block;width:100%;height:auto;max-height:420px;object-fit:cover}
-@media(max-width:800px){.campaign-layout{grid-template-columns:1fr}.campaign-toc{position:static}}
-</style>
-<style>
-.campaign-hero{padding:clamp(2rem,5vw,4.5rem) 1.5rem;background:#f3f5f7;color:#182b39}
-.campaign-wrap{max-width:1120px;margin:auto}.campaign-hero h1{max-width:850px;font-size:clamp(2rem,4vw,3.3rem);line-height:1.13;margin:.5rem 0 1rem}
-.campaign-kicker{font-size:.85rem;letter-spacing:.1em;text-transform:uppercase;font-weight:700}.campaign-meta{color:#536270}
-.campaign-layout{display:grid;grid-template-columns:minmax(0,220px) minmax(0,760px);gap:clamp(1.5rem,4vw,4rem);padding:2.5rem 1.5rem 5rem;align-items:start}
-.campaign-layout>*{min-width:0}.campaign-toc{position:sticky;top:1rem;border-left:2px solid #cbd4dc;padding-left:1rem}
-.campaign-toc h2{font-size:1rem;margin:0 0 .75rem}.campaign-toc ol{padding-left:1.2rem;margin:0}.campaign-toc li{margin:.55rem 0;font-size:.9rem}
-.campaign-body{font-size:1.05rem;line-height:1.75;color:#253340}.campaign-body>p{margin:0 0 1.35rem}.campaign-body h2{font-size:clamp(1.45rem,2.4vw,2rem);line-height:1.25;margin:2.5rem 0 1rem}
-.campaign-body h3{font-size:1.2rem;line-height:1.3;margin:1.8rem 0 .55rem}.campaign-body a{text-decoration:underline;text-underline-offset:2px}
-.campaign-body ul{margin:0 0 1.35rem;padding-left:1.5rem}.campaign-table{overflow-x:auto;margin:1.5rem 0 2rem;border:1px solid #d5dde3;border-radius:6px}
-.campaign-table table{width:100%;border-collapse:collapse;min-width:600px}.campaign-table th,.campaign-table td{padding:.75rem .9rem;border-bottom:1px solid #d5dde3;text-align:left;vertical-align:top}
-.campaign-table th{background:#e9eef2;color:#182b39}.campaign-table tr:last-child td{border-bottom:0}
-.campaign-feature{margin:0 0 1.5rem;overflow:hidden;border-radius:6px}.campaign-feature img{display:block;width:100%;height:auto;max-height:420px;object-fit:cover}
-@media(max-width:800px){.campaign-layout{grid-template-columns:1fr}.campaign-toc{position:static}}
-</style>
-<style>
-.campaign-hero{padding:clamp(2rem,5vw,4.5rem) 1.5rem;background:#f3f5f7;color:#182b39}
-.campaign-wrap{max-width:1120px;margin:auto}.campaign-hero h1{max-width:850px;font-size:clamp(2rem,4vw,3.3rem);line-height:1.13;margin:.5rem 0 1rem}
-.campaign-kicker{font-size:.85rem;letter-spacing:.1em;text-transform:uppercase;font-weight:700}.campaign-meta{color:#536270}
-.campaign-layout{display:grid;grid-template-columns:minmax(0,220px) minmax(0,760px);gap:clamp(1.5rem,4vw,4rem);padding:2.5rem 1.5rem 5rem;align-items:start}
-.campaign-layout>*{min-width:0}.campaign-toc{position:sticky;top:1rem;border-left:2px solid #cbd4dc;padding-left:1rem}
-.campaign-toc h2{font-size:1rem;margin:0 0 .75rem}.campaign-toc ol{padding-left:1.2rem;margin:0}.campaign-toc li{margin:.55rem 0;font-size:.9rem}
-.campaign-body{font-size:1.05rem;line-height:1.75;color:#253340}.campaign-body>p{margin:0 0 1.35rem}.campaign-body h2{font-size:clamp(1.45rem,2.4vw,2rem);line-height:1.25;margin:2.5rem 0 1rem}
-.campaign-body h3{font-size:1.2rem;line-height:1.3;margin:1.8rem 0 .55rem}.campaign-body a{text-decoration:underline;text-underline-offset:2px}
-.campaign-body ul{margin:0 0 1.35rem;padding-left:1.5rem}.campaign-table{overflow-x:auto;margin:1.5rem 0 2rem;border:1px solid #d5dde3;border-radius:6px}
-.campaign-table table{width:100%;border-collapse:collapse;min-width:600px}.campaign-table th,.campaign-table td{padding:.75rem .9rem;border-bottom:1px solid #d5dde3;text-align:left;vertical-align:top}
-.campaign-table th{background:#e9eef2;color:#182b39}.campaign-table tr:last-child td{border-bottom:0}
-.campaign-feature{margin:0 0 1.5rem;overflow:hidden;border-radius:6px}.campaign-feature img{display:block;width:100%;height:auto;max-height:420px;object-fit:cover}
-@media(max-width:800px){.campaign-layout{grid-template-columns:1fr}.campaign-toc{position:static}}
-</style>
-<style>
-.campaign-hero{padding:clamp(2rem,5vw,4.5rem) 1.5rem;background:#f3f5f7;color:#182b39}
-.campaign-wrap{max-width:1120px;margin:auto}.campaign-hero h1{max-width:850px;font-size:clamp(2rem,4vw,3.3rem);line-height:1.13;margin:.5rem 0 1rem}
-.campaign-kicker{font-size:.85rem;letter-spacing:.1em;text-transform:uppercase;font-weight:700}.campaign-meta{color:#536270}
-.campaign-layout{display:grid;grid-template-columns:minmax(0,220px) minmax(0,760px);gap:clamp(1.5rem,4vw,4rem);padding:2.5rem 1.5rem 5rem;align-items:start}
-.campaign-layout>*{min-width:0}.campaign-toc{position:sticky;top:1rem;border-left:2px solid #cbd4dc;padding-left:1rem}
-.campaign-toc h2{font-size:1rem;margin:0 0 .75rem}.campaign-toc ol{padding-left:1.2rem;margin:0}.campaign-toc li{margin:.55rem 0;font-size:.9rem}
-.campaign-body{font-size:1.05rem;line-height:1.75;color:#253340}.campaign-body>p{margin:0 0 1.35rem}.campaign-body h2{font-size:clamp(1.45rem,2.4vw,2rem);line-height:1.25;margin:2.5rem 0 1rem}
-.campaign-body h3{font-size:1.2rem;line-height:1.3;margin:1.8rem 0 .55rem}.campaign-body a{text-decoration:underline;text-underline-offset:2px}
-.campaign-body ul{margin:0 0 1.35rem;padding-left:1.5rem}.campaign-table{overflow-x:auto;margin:1.5rem 0 2rem;border:1px solid #d5dde3;border-radius:6px}
-.campaign-table table{width:100%;border-collapse:collapse;min-width:600px}.campaign-table th,.campaign-table td{padding:.75rem .9rem;border-bottom:1px solid #d5dde3;text-align:left;vertical-align:top}
-.campaign-table th{background:#e9eef2;color:#182b39}.campaign-table tr:last-child td{border-bottom:0}
-.campaign-feature{margin:0 0 1.5rem;overflow:hidden;border-radius:6px}.campaign-feature img{display:block;width:100%;height:auto;max-height:420px;object-fit:cover}
-@media(max-width:800px){.campaign-layout{grid-template-columns:1fr}.campaign-toc{position:static}}
-</style>
 <title>Is the Business Buying an Asset or Covering a Cash-Flow Gap? | flexi-viewlending.com</title>
 <meta name="description" content="A framework for distinguishing an equipment purchase from a temporary cash-flow gap before choosing a business financing structure.">
 <link rel="canonical" href="https://flexi-viewlending.com/blog/asset-purchase-or-cash-flow-gap/">
@@ -123,8 +48,11 @@
 </head>
 <body class="blog-post">
   <header class="site-header">
-    <a class="brand" href="/" aria-label="Flexi View Lending home"><img src="/assets/logo.svg" alt="Flexi View Lending"></a>
-    <nav aria-label="Main navigation"><a href="/">Home</a><a href="/services/">Services</a><a href="/brokers/">Brokers</a><a href="/faq/">FAQ</a><a href="/about/">About</a><a class="nav-cta" href="/apply-now/">Apply</a></nav>
+    <nav class="site-nav" aria-label="Main navigation">
+      <a class="brand" href="/" aria-label="Flexi View Lending home"><span class="brand-accent">Flexi</span><span>View</span><span class="brand-accent">Lending</span></a>
+      <div class="nav-links"><a href="/services/">Services</a><a href="/loan-programs/">Loan Programs</a><a href="/brokers/">Brokers</a><a href="/faq/">FAQ</a><a href="/about/">About</a><a href="/contact/">Contact</a></div>
+      <a class="nav-cta" href="/apply-now/">Apply Now</a>
+    </nav>
   </header>
   <main id="main"><section class="campaign-hero"><div class="campaign-wrap"><p class="campaign-kicker"><a href="/blog/">Blog</a> · Financing guide</p><h1>Is the Business Buying an Asset or Covering a Cash-Flow Gap?</h1><p class="campaign-meta">By Flexi View Lending Editorial Team · September 29, 2026</p></div></section><div class="campaign-wrap campaign-layout"><nav class="campaign-toc" aria-label="Table of contents"><h2>In this article</h2><ol><li><a href="https://flexi-viewlending.com/blog/asset-purchase-or-cash-flow-gap/#identify-what-each-dollar-will-do">Identify what each dollar will do</a></li><li><a href="https://flexi-viewlending.com/blog/asset-purchase-or-cash-flow-gap/#give-each-need-its-own-timeline">Give each need its own timeline</a></li><li><a href="https://flexi-viewlending.com/blog/asset-purchase-or-cash-flow-gap/#understand-when-a-bridge-is-appropriate">Understand when a bridge is appropriate</a></li><li><a href="https://flexi-viewlending.com/blog/asset-purchase-or-cash-flow-gap/#compare-possible-structures">Compare possible structures</a></li><li><a href="https://flexi-viewlending.com/blog/asset-purchase-or-cash-flow-gap/#make-the-exit-visible">Make the exit visible</a></li><li><a href="https://flexi-viewlending.com/blog/asset-purchase-or-cash-flow-gap/#ask-the-uncomfortable-questions">Ask the uncomfortable questions</a></li><li><a href="https://flexi-viewlending.com/blog/asset-purchase-or-cash-flow-gap/#frequently-asked-questions">Frequently asked questions</a></li></ol></nav><article class="campaign-body"><figure class="campaign-feature"><img src="https://flexi-viewlending.com/assets/logo.svg" alt="Is the Business Buying an Asset or Covering a Cash-Flow Gap?" loading="lazy"></figure><p>Two businesses can ask for the same amount and need entirely different structures. One is buying a truck that should serve it for years. The other has already completed a large contract and needs to cover payroll until the customer pays. Both may say “we need working capital,” but the first has a durable asset purchase and the second has a dated cash-flow gap. Confusing those situations is a common way to borrow on the wrong repayment schedule. The question behind <a href="https://www.reddit.com/r/loansforsmallbusiness/comments/1ugzpak/small_business_financing_how_do_you_even_know/" rel="noopener noreferrer">small business financing for a second truck</a> is whether the money buys long-lived capacity or bridges the period before that capacity produces cash.</p>
 <h2 id="identify-what-each-dollar-will-do">Identify what each dollar will do</h2>
